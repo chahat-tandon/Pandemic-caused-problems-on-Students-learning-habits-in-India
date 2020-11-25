@@ -1,0 +1,649 @@
+Gender,Standard,Institute,Subject,Performance,Before_covid,During_covid,During_online,Online_with_instructions,Online_without_instructions,During_offline,Offline_with_instructions,Offline_without_instructions,Assurance
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Excellent,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Excellent,less than  4 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Medical,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,4-7 hrs,less than  4 hrs,1,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Below Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,above 7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Below Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,less than  4 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Excellent,4-7 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Excellent,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Excellent,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Excellent,4-7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,09-Dec,Public,Arts,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,International,Technical,Excellent,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Medical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,05-Aug,Private,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Excellent,4-7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,05-Aug,Private,Science,Excellent,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Excellent,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,International,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Good,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Average,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,above 7 hrs,above 7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Average,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,4-7 hrs,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,less than  4 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,05-Aug,International,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,4-7 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,05-Aug,Private,Science,Excellent,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,4-7 hrs,Agree
+Female,05-Aug,International,Medical,Excellent,less than  4 hrs,less than  4 hrs,3 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,05-Aug,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,09-Dec,Private,Science,Good,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,above 7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,above 7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Below Average,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,05-Aug,Public,Science,Excellent,less than  4 hrs,4-7 hrs,1,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,4-7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Neither agree nor disagree
+Female,05-Aug,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Excellent,4-7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Excellent,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,International,Technical,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Female,05-Aug,Private,Science,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Arts,Good,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Arts,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,above 7 hrs,above 7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,09-Dec,Private,Science,Excellent,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Neither agree nor disagree
+Female,09-Dec,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,above 7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Disagree
+Female,05-Aug,Public,Science,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Good,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Arts,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,09-Dec,Private,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,09-Dec,Private,Science,Excellent,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Commerce,Average,above 7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Arts,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,09-Dec,Private,Science,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,4-7 hrs,above 7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,International,Technical,Excellent,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Below Average,4-7 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,4-7 hrs,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,less than  4 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,4-7 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Below Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Below Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Below Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,above 7 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,above 7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Strongly Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,above 7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,above 7 hrs,4-7 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,4-7 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,above 7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,above 7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,4-7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,above 7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Medical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Medical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,above 7 hrs,above 7 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Excellent,above 7 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,above 7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,above 7 hrs,Strongly disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Strongly Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,above 7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,above 7 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Below Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Excellent,less than  4 hrs,above 7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Science,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,above 7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Good,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,above 7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Technical,Average,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,above 7 hrs,1,less than 4 hrs,less than 4 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Public,Commerce,Average,less than  4 hrs,less than  4 hrs,less than 4 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,less than  4 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Average,4-7 hrs,less than  4 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,4-7 hrs,above 7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Male,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,4-7 hrs,4-7 hrs,above 7 hrs,Neither agree nor disagree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Science,Average,4-7 hrs,less than  4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Agree
+Female,College Level ( 1st /2nd /3rd /4th ) year,Private,Technical,Good,less than  4 hrs,4-7 hrs,4-7 hrs,4-7 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,less than 4 hrs,Neither agree nor disagree
